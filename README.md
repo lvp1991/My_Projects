@@ -2,8 +2,8 @@
 
 <p>IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
 
-
-### Skills
+***
+## Skills
 
 <ul>
 <li> TCP/IP protocol. </li>
@@ -18,5 +18,5 @@
 <li>  Kubernetes/Docker/Jenkins (CI/CD Pipeline). </li>
 <li>  Ansible Automation. </li>
 <li> SAS Platform 9.4 Administration. </li>
-
 </ul>
+
