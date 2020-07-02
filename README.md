@@ -2,16 +2,16 @@
 
 <ul>
 <li> TCP/IP protocol. </li>
-⋅⋅* OSI Model.
-⋅⋅* API REST.
-⋅⋅* Unix/Linux Operational Systems.
-⋅⋅* DevOps (open source solutions).
-⋅⋅* Cloud Architecture (Web Servers).
-⋅⋅* Apache Tomcat Middleware.
-⋅⋅* Reverse Proxy (NGINX).
-⋅⋅* Shell Script.
-⋅⋅* Kubernetes/Docker/Jenkins (CI/CD Pipeline).
-⋅⋅* Ansible Automation.
-⋅⋅* SAS Platform 9.4 Administration. 
+<li> OSI Model. </li>
+<li>  API REST. </li>
+<li> Unix/Linux Operational Systems. </li>
+<li>  DevOps (open source solutions). </li>
+<li>  Cloud Architecture (Web Servers). </li>
+<li> Apache Tomcat Middleware. </li>
+<li> Reverse Proxy (NGINX). </li>
+<li> Shell Script. </li>
+<li>  Kubernetes/Docker/Jenkins (CI/CD Pipeline). </li>
+<li>  Ansible Automation. </li>
+<li> SAS Platform 9.4 Administration. </li>
 
 </ul>
