@@ -1,6 +1,7 @@
 ### Skills
 
-⋅⋅* TCP/IP protocol.
+<ul>
+<li> TCP/IP protocol. </li>
 ⋅⋅* OSI Model.
 ⋅⋅* API REST.
 ⋅⋅* Unix/Linux Operational Systems.
@@ -13,3 +14,4 @@
 ⋅⋅* Ansible Automation.
 ⋅⋅* SAS Platform 9.4 Administration. 
 
+</ul>
