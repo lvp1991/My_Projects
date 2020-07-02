@@ -1,6 +1,6 @@
 # Who I'm?
 
-<p>IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
+<p> I'm IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
 
 
 ### Skills
