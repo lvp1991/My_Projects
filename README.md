@@ -1,6 +1,6 @@
 # Who I'm?
 
-<p>IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
+<p> I'm IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
 
 ***
 ## Skills
@@ -20,3 +20,7 @@
 <li> SAS Platform 9.4 Administration. </li>
 </ul>
 
+<<<<<<< HEAD
+=======
+</ul>
+>>>>>>> c9f95a50c16b107ef651c135ca7b8194bf5cb678
