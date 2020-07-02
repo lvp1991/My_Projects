@@ -1,4 +1,15 @@
-# My_Projects
- Here it's my DevOps and IAC projects.
+### Skills
 
-* [Linkedin Profile](https://linkedin.com/in/lvp1991)
+⋅⋅* TCP/IP protocol.
+⋅⋅* OSI Model.
+⋅⋅* API REST.
+⋅⋅* Unix/Linux Operational Systems.
+⋅⋅* DevOps (open source solutions).
+⋅⋅* Cloud Architecture (Web Servers).
+⋅⋅* Apache Tomcat Middleware.
+⋅⋅* Reverse Proxy (NGINX).
+⋅⋅* Shell Script.
+⋅⋅* Kubernetes/Docker/Jenkins (CI/CD Pipeline).
+⋅⋅* Ansible Automation.
+⋅⋅* SAS Platform 9.4 Administration. 
+
