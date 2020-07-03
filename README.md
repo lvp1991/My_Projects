@@ -23,8 +23,6 @@
 </ul>
 
 ### Contact
-Linkedin Profile
-Phone: +55 (11) 99114-3090
-E-mail: lucasvp91@gmail.com
+Linkedin Profile<br>Phone: +55 (11) 99114-3090<br>E-mail: lucasvp91@gmail.com
 
 
