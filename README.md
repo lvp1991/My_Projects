@@ -23,6 +23,6 @@
 </ul>
 
 ### Contact
-[Linkedin Profile]: https://linkedin.com/in/lvp1991<br>Phone: +55 (11) 99114-3090<br>E-mail: lucasvp91@gmail.com
+[Linkedin Profile](https://linkedin.com/in/lvp1991)<br>Phone: +55 (11) 99114-3090<br>E-mail: lucasvp91@gmail.com
 
 
