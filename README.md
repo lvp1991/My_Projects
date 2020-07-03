@@ -1,5 +1,5 @@
 
-<img align="right" src="images/my-profile.jpg" width="100">
+<img align="right" src="images/my-profile.jpg" width="200">
 
 # Who I'm?
 
