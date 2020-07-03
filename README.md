@@ -1,24 +1,30 @@
 
-<img align="right" src="images/my-profile.jpg" width="200">
+<img align="right" src="images/my-profile.jpg" width="100">
 
 # Who I'm?
 
-<p> I'm IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
+<p>IT Infrastructure Analyst with 10+ working as Linux systems administrator (RHEL | GNU), web servers, relational databases, TCP/IP protocol and information security.</p>
 
 ## Skills
 
 <ul>
 <li> TCP/IP protocol. </li>
 <li> OSI Model. </li>
-<li>  API REST. </li>
+<li> API REST. </li>
 <li> Unix/Linux Operational Systems. </li>
-<li>  DevOps (open source solutions). </li>
-<li>  Cloud Architecture (Web Servers). </li>
+<li> DevOps (open source solutions). </li>
+<li> Cloud Architecture (Web Servers). </li>
 <li> Apache Tomcat Middleware. </li>
 <li> Reverse Proxy (NGINX). </li>
 <li> Shell Script. </li>
-<li>  Kubernetes/Docker/Jenkins (CI/CD Pipeline). </li>
-<li>  Ansible Automation. </li>
+<li> Kubernetes/Docker/Jenkins (CI/CD Pipeline). </li>
+<li> Ansible Automation. </li>
 <li> SAS Platform 9.4 Administration. </li>
 </ul>
+
+### Contact
+Linkedin Profile
+Phone: +55 (11) 99114-3090
+E-mail: lucasvp91@gmail.com
+
 
